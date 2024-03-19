@@ -1,0 +1,56 @@
+.riv{
+    width: 1000px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+body{
+background-color: aqua;  
+background-image: url("https://gloria-mur.ru/wp-content/uploads/2020/03/risunok.jpeg");
+background-size: 100%;
+background-position-y: center ;
+}
+
+.tip{
+    display: flex;
+    justify-content: center;
+}
+
+.color{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.reed{
+    background-color: red;
+}
+
+.blu{
+    background-color: blue;
+}
+.gre{
+    background-color: green;
+}
+.oran{
+    background-color: orangered;
+}
+.vio{
+    background-color: violet;
+}
+.yell{
+    background-color: yellow;
+}
+.dagr{
+    background-color: darkgreen;
+}
+.dabl{
+    background-color: darkblue;
+}
+.brow{
+    background-color: brown;
+}
+.yip{
+    background-color: cornflowerblue;
+}
